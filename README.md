@@ -1,3 +1,7 @@
+## Currently building
+
+Grow and Rebirth, a Roblox game, and a new system design concept every day in [system-design-simplified](https://github.com/JssPlayZ/system-design-simplified).
+
 ## What I've built
 
 - **AI-Based Legal Document Analyzer**: reads a contract, summarizes it, flags risk across 12 categories and extracts the entities it names. FastAPI, Next.js, Hugging Face Transformers, spaCy, LangChain.
@@ -10,3 +14,9 @@
 ## Tools
 
 [![Tools](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,python,fastapi,java,c,mongodb,postgres,supabase,tailwind,git&perline=8)](https://skillicons.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JssPlayZ/JssPlayZ/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JssPlayZ/JssPlayZ/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/JssPlayZ/JssPlayZ/output/github-contribution-grid-snake.svg">
+</picture>
