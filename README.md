@@ -1,14 +1,12 @@
-![JssPlayZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=JssPlayZ&show_icons=true&theme=radical)
+## What I've built
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JssPlayZ&layout=compact&theme=radical)
+- **AI-Based Legal Document Analyzer**: reads a contract, summarizes it, flags risk across 12 categories and extracts the entities it names. FastAPI, Next.js, Hugging Face Transformers, spaCy, LangChain.
+- **Enterprise AI Campaign Management Platform**: a client project with admin and employee portals, role-based access, chat inside every project, and AI-drafted social posts that a manager approves before they go out. Next.js 15, Supabase, Groq.
+- **MERNshop**: a full e-commerce store with auth, catalog, cart and checkout. React, Node.js, Express, MongoDB.
+- **Grow and Rebirth**: a Roblox garden game that mixes simulator, tycoon and gacha mechanics.
+- [**system-design-simplified**](https://github.com/JssPlayZ/system-design-simplified): one system design concept a day, explained in plain language.
+- [**StockPricePrediction**](https://github.com/JssPlayZ/StockPricePrediction): the regression model I built as my AI and ML internship project.
 
-### 🛠️ Languages & Tools
+## Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Nextjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-</p>
+[![Tools](https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,python,fastapi,java,c,mongodb,postgres,supabase,tailwind,git&perline=8)](https://skillicons.dev)
